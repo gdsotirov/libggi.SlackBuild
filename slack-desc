@@ -1,0 +1,13 @@
+libggi: LibGGI (GGI's General Graphics Interface)
+libggi:
+libggi: LibGGI is the central library in the GGI project.  It provides an
+libggi: opaque interface to the display's acceleration functions.  It was
+libggi: originally intended to allow user programs to interface with KGI,
+libggi: the GGI Kernel Graphics Interface, but other display types can be
+libggi: easily used by loading the appropriate "display target" (e.g. X,
+libggi: memory).  LibGGI consists of a main library (libggi.so) and a
+libggi: multitude of dynamic drivers.  The library then loads the necessary
+libggi: "drivers" for the requested mode, taking hints from the graphics
+libggi: device if necessary.  LibGGI can also load extension libraries,
+libggi: e.g. to provide enhanced 2D and 3D functions.
+libggi: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
