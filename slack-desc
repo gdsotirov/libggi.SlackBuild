@@ -10,4 +10,4 @@ libggi: multitude of dynamic drivers.  The library then loads the necessary
 libggi: "drivers" for the requested mode, taking hints from the graphics
 libggi: device if necessary.  LibGGI can also load extension libraries,
 libggi: e.g. to provide enhanced 2D and 3D functions.
-libggi: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+libggi: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
